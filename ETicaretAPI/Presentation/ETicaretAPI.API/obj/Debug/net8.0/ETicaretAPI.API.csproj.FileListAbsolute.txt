@@ -1,0 +1,8 @@
+C:\Users\firat\OneDrive\Masaüstü\ETicaretUygulamasi\ETicaretAPI\Presentation\ETicaretAPI.API\obj\Debug\net8.0\ETicaretAPI.API.csproj.AssemblyReference.cache
+C:\Users\firat\OneDrive\Masaüstü\ETicaretUygulamasi\ETicaretAPI\Presentation\ETicaretAPI.API\obj\Debug\net8.0\ETicaretAPI.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\firat\OneDrive\Masaüstü\ETicaretUygulamasi\ETicaretAPI\Presentation\ETicaretAPI.API\obj\Debug\net8.0\ETicaretAPI.API.AssemblyInfoInputs.cache
+C:\Users\firat\OneDrive\Masaüstü\ETicaretUygulamasi\ETicaretAPI\Presentation\ETicaretAPI.API\obj\Debug\net8.0\ETicaretAPI.API.AssemblyInfo.cs
+C:\Users\firat\OneDrive\Masaüstü\ETicaretUygulamasi\ETicaretAPI\Presentation\ETicaretAPI.API\obj\Debug\net8.0\ETicaretAPI.API.csproj.CoreCompileInputs.cache
+C:\Users\firat\OneDrive\Masaüstü\ETicaretUygulamasi\ETicaretAPI\Presentation\ETicaretAPI.API\obj\Debug\net8.0\ETicaretAPI.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\firat\OneDrive\Masaüstü\ETicaretUygulamasi\ETicaretAPI\Presentation\ETicaretAPI.API\obj\Debug\net8.0\ETicaretAPI.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\firat\OneDrive\Masaüstü\ETicaretUygulamasi\ETicaretAPI\Presentation\ETicaretAPI.API\obj\Debug\net8.0\ETicaretAPI.API.sourcelink.json
