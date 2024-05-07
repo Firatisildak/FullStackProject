@@ -635,7 +635,8 @@
       "System.Threading.Channels/6.0.0": {},
       "ETicaretAPI.Application/1.0.0": {
         "dependencies": {
-          "ETicaretAPI.Domain": "1.0.0"
+          "ETicaretAPI.Domain": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "8.0.4"
         },
         "runtime": {
           "ETicaretAPI.Application.dll": {}
