@@ -1,0 +1,16 @@
+C:\Users\firat\Desktop\ETicaretUyguamasi\ETicaretAPI\Core\ETicaretAPI.Application\bin\Debug\net8.0\ETicaretAPI.Application.deps.json
+C:\Users\firat\Desktop\ETicaretUyguamasi\ETicaretAPI\Core\ETicaretAPI.Application\bin\Debug\net8.0\ETicaretAPI.Application.dll
+C:\Users\firat\Desktop\ETicaretUyguamasi\ETicaretAPI\Core\ETicaretAPI.Application\bin\Debug\net8.0\ETicaretAPI.Application.pdb
+C:\Users\firat\Desktop\ETicaretUyguamasi\ETicaretAPI\Core\ETicaretAPI.Application\bin\Debug\net8.0\ETicaretAPI.Domain.dll
+C:\Users\firat\Desktop\ETicaretUyguamasi\ETicaretAPI\Core\ETicaretAPI.Application\bin\Debug\net8.0\ETicaretAPI.Domain.pdb
+C:\Users\firat\Desktop\ETicaretUyguamasi\ETicaretAPI\Core\ETicaretAPI.Application\obj\Debug\net8.0\ETicaretAPI.Application.csproj.AssemblyReference.cache
+C:\Users\firat\Desktop\ETicaretUyguamasi\ETicaretAPI\Core\ETicaretAPI.Application\obj\Debug\net8.0\ETicaretAPI.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\firat\Desktop\ETicaretUyguamasi\ETicaretAPI\Core\ETicaretAPI.Application\obj\Debug\net8.0\ETicaretAPI.Application.AssemblyInfoInputs.cache
+C:\Users\firat\Desktop\ETicaretUyguamasi\ETicaretAPI\Core\ETicaretAPI.Application\obj\Debug\net8.0\ETicaretAPI.Application.AssemblyInfo.cs
+C:\Users\firat\Desktop\ETicaretUyguamasi\ETicaretAPI\Core\ETicaretAPI.Application\obj\Debug\net8.0\ETicaretAPI.Application.csproj.CoreCompileInputs.cache
+C:\Users\firat\Desktop\ETicaretUyguamasi\ETicaretAPI\Core\ETicaretAPI.Application\obj\Debug\net8.0\ETicaretAPI.Application.sourcelink.json
+C:\Users\firat\Desktop\ETicaretUyguamasi\ETicaretAPI\Core\ETicaretAPI.Application\obj\Debug\net8.0\ETicaret.BBAD6852.Up2Date
+C:\Users\firat\Desktop\ETicaretUyguamasi\ETicaretAPI\Core\ETicaretAPI.Application\obj\Debug\net8.0\ETicaretAPI.Application.dll
+C:\Users\firat\Desktop\ETicaretUyguamasi\ETicaretAPI\Core\ETicaretAPI.Application\obj\Debug\net8.0\refint\ETicaretAPI.Application.dll
+C:\Users\firat\Desktop\ETicaretUyguamasi\ETicaretAPI\Core\ETicaretAPI.Application\obj\Debug\net8.0\ETicaretAPI.Application.pdb
+C:\Users\firat\Desktop\ETicaretUyguamasi\ETicaretAPI\Core\ETicaretAPI.Application\obj\Debug\net8.0\ref\ETicaretAPI.Application.dll
