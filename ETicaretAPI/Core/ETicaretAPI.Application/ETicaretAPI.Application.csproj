@@ -7,6 +7,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="EntityFramework" Version="6.5.1" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\ETicaretAPI.Domain\ETicaretAPI.Domain.csproj" />
   </ItemGroup>
 
