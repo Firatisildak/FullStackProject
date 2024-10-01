@@ -1,4 +1,5 @@
 ﻿using ETicaretAPI.Application.Repositories;
+using ETicaretAPI.Domain.Entities.Common;
 using ETicaretAPI.Persistence.Contexts;
 using System;
 using System.Collections.Generic;
@@ -10,7 +11,7 @@ using System.Threading.Tasks;
 
 namespace ETicaretAPI.Persistence.Repositories
 {
-    public class ReadRepository<T> : IReadRepository<T> where T : class
+    public class ReadRepository<T> : IReadRepository<T> where T : BaseEntity
     {
         private readonly ETicaretAPIDbContext _context;
 
@@ -19,26 +20,19 @@ namespace ETicaretAPI.Persistence.Repositories
             _context = context;
         }
 
-        public DbSet<T> Table => throw new NotImplementedException();
+        public DbSet<T> Table => _context.Set<T>();
 
         public IQueryable<T> GetAll()
-        {
-            throw new NotImplementedException();
-        }
-
-        public Task<T> GetByIdAsync(string id)
-        {
-            throw new NotImplementedException();
-        }
-
-        public Task<T> GetSingleAsync(Expression<Func<T, bool>> method)
-        {
-            throw new NotImplementedException();
-        }
+        => Table;
 
         public IQueryable<T> GetWhere(Expression<Func<T, bool>> method)
-        {
-            throw new NotImplementedException();
-        }
+       => Table.Where(method);
+
+        public async Task<T> GetSingleAsync(Expression<Func<T, bool>> method)
+        =>await Table.FirstOrDefaultAsync(method);
+
+        public async Task<T> GetByIdAsync(string id)
+       => await Table.FirstOrDefaultAsync(data => data.Id == Guid.Parse(id));
+
     }
 }

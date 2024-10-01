@@ -1,15 +1,13 @@
-﻿using ETicaretAPI.Domain.Entities.Common;
+﻿using ETicaretAPI.Domain.Entities;
 using System;
 using System.Collections.Generic;
-using System.Data.Entity;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
 namespace ETicaretAPI.Application.Repositories
 {
-    public interface IRepository<T> where T : BaseEntity
+    public interface IProductReadRepository : IReadRepository<Product>
     {
-        DbSet<T> Table { get; }
     }
 }
