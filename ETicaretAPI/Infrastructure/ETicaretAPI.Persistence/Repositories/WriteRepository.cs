@@ -4,8 +4,8 @@ using ETicaretAPI.Persistence.Contexts;
 using Microsoft.EntityFrameworkCore.ChangeTracking;
 using System;
 using System.Collections.Generic;
-using System.Data.Entity;
-using System.Data.Entity.Migrations;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Migrations;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -49,7 +49,7 @@ namespace ETicaretAPI.Persistence.Repositories
 
         public async Task<bool> RemoveAsync(string id)
         {
-            T model = await Table.FirstOrDefaultAsync(data =>data.Id == Guid.Parse(id));
+            T model = await Table.FirstOrDefaultAsync(data => data.Id == Guid.Parse(id));
             return Remove(model);
         }
 

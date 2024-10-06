@@ -16,3 +16,5 @@ C:\Users\firat\Desktop\ETicaretUyguamasi\ETicaretAPI\Infrastructure\ETicaretAPI.
 C:\Users\firat\Desktop\ETicaretUyguamasi\ETicaretAPI\Infrastructure\ETicaretAPI.Persistence\obj\Debug\net8.0\refint\ETicaretAPI.Persistence.dll
 C:\Users\firat\Desktop\ETicaretUyguamasi\ETicaretAPI\Infrastructure\ETicaretAPI.Persistence\obj\Debug\net8.0\ETicaretAPI.Persistence.pdb
 C:\Users\firat\Desktop\ETicaretUyguamasi\ETicaretAPI\Infrastructure\ETicaretAPI.Persistence\obj\Debug\net8.0\ref\ETicaretAPI.Persistence.dll
+C:\Users\firat\Desktop\ETicaretUyguamasi\ETicaretAPI\Infrastructure\ETicaretAPI.Persistence\bin\Debug\net8.0\ETicaretAPI.Persistence.runtimeconfig.json
+C:\Users\firat\Desktop\ETicaretUyguamasi\ETicaretAPI\Infrastructure\ETicaretAPI.Persistence\obj\Debug\net8.0\ETicaretAPI.Persistence.genruntimeconfig.cache

@@ -1,4 +1,5 @@
 ﻿using ETicaretAPI.Domain.Entities.Common;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Data.Entity;
@@ -10,6 +11,6 @@ namespace ETicaretAPI.Application.Repositories
 {
     public interface IRepository<T> where T : BaseEntity
     {
-        DbSet<T> Table { get; }
+        Microsoft.EntityFrameworkCore.DbSet<T> Table { get; }
     }
 }
