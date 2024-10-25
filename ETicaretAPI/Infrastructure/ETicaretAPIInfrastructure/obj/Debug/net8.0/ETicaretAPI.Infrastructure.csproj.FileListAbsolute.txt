@@ -16,3 +16,5 @@ C:\Users\firat\Desktop\ETicaretUyguamasi\ETicaretAPI\Infrastructure\ETicaretAPII
 C:\Users\firat\Desktop\ETicaretUyguamasi\ETicaretAPI\Infrastructure\ETicaretAPIInfrastructure\obj\Debug\net8.0\refint\ETicaretAPI.Infrastructure.dll
 C:\Users\firat\Desktop\ETicaretUyguamasi\ETicaretAPI\Infrastructure\ETicaretAPIInfrastructure\obj\Debug\net8.0\ETicaretAPI.Infrastructure.pdb
 C:\Users\firat\Desktop\ETicaretUyguamasi\ETicaretAPI\Infrastructure\ETicaretAPIInfrastructure\obj\Debug\net8.0\ref\ETicaretAPI.Infrastructure.dll
+C:\Users\firat\Desktop\ETicaretUyguamasi\ETicaretAPI\Infrastructure\ETicaretAPIInfrastructure\bin\Debug\net8.0\ETicaretAPI.Infrastructure.runtimeconfig.json
+C:\Users\firat\Desktop\ETicaretUyguamasi\ETicaretAPI\Infrastructure\ETicaretAPIInfrastructure\obj\Debug\net8.0\ETicaretAPI.Infrastructure.genruntimeconfig.cache
