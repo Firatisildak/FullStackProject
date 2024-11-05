@@ -4,7 +4,7 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace GeotekProject.API.Controllers
-{
+{ 
     [Route("api/[controller]")]
     [ApiController]
     public class ProductController : ControllerBase
