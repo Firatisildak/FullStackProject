@@ -25,11 +25,9 @@ namespace GeotekProject.API.Controllers
         }
 
         [HttpGet]
-        public async Task Get()
+        public async Task<IActionResult> Get()
         {
-            Order order = await _orderReadRepository.GetByIdAsync("5a094daf-2e76-49ee-8d13-08dcf4f3923d");
-            order.Address = "İstanbul";
-            await _customerWriteRepository.SaveAsync();
+            return Ok("Merhaba");
         }
        
     }
