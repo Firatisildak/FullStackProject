@@ -23,6 +23,7 @@ import { BaseComponent } from './base/base.component';
     NgxSpinnerModule
   ],
   providers: [
+    { provide: "baseUrl", useValue:" https://localhost:7160/api", multi: true},
     provideClientHydration(),
     provideAnimationsAsync()
   ],
