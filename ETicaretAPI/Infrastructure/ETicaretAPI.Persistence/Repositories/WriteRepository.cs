@@ -12,14 +12,9 @@ using System.Threading.Tasks;
 
 namespace ETicaretAPI.Persistence.Repositories
 {
-    public class WriteRepository<T> : IWriteRepository<T> where T : BaseEntity
+    public class WriteRepository<T>(ETicaretAPIDbContext context) : IWriteRepository<T> where T : BaseEntity
     {
-        readonly private ETicaretAPIDbContext _context;
-
-        public WriteRepository(ETicaretAPIDbContext context)
-        {
-            _context = context;
-        }
+        readonly private ETicaretAPIDbContext _context = context;
 
         public DbSet<T> Table => _context.Set<T>();
 

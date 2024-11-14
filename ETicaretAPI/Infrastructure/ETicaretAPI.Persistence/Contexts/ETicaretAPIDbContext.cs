@@ -9,10 +9,8 @@ using System.Threading.Tasks;
 
 namespace ETicaretAPI.Persistence.Contexts
 {
-    public class ETicaretAPIDbContext : DbContext
+    public class ETicaretAPIDbContext(DbContextOptions options) : DbContext(options)
     {
-        public ETicaretAPIDbContext(DbContextOptions options) : base(options)
-        { }
 
         public DbSet<Product> Products { get; set; }
         public DbSet<Order> Orders { get; set; }
@@ -29,6 +27,7 @@ namespace ETicaretAPI.Persistence.Contexts
                 {
                     EntityState.Added => data.Entity.CreatedDate = DateTime.UtcNow,
                     EntityState.Modified => data.Entity.UpdatedDate = DateTime.UtcNow,
+                    _ => throw new NotImplementedException(),
                 };
             }
             return await base.SaveChangesAsync(cancellationToken);

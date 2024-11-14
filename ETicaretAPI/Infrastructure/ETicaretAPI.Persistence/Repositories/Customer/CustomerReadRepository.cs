@@ -10,10 +10,7 @@ using ETicaretAPI.Persistence.Contexts;
 
 namespace ETicaretAPI.Persistence.Repositories
 {
-    public class CustomerReadRepository : ReadRepository<Customer>, ICustomerReadRepository
+    public class CustomerReadRepository(ETicaretAPIDbContext context) : ReadRepository<Customer>(context), ICustomerReadRepository
     {
-        public CustomerReadRepository(ETicaretAPIDbContext context) : base(context)
-        {
-        }
     }
 }

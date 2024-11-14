@@ -9,10 +9,7 @@ using System.Threading.Tasks;
 
 namespace ETicaretAPI.Persistence.Repositories
 {
-    public class ProductWriteRepository : WriteRepository<Product>, IProductWriteRepository
+    public class ProductWriteRepository(ETicaretAPIDbContext context) : WriteRepository<Product>(context), IProductWriteRepository
     {
-        public ProductWriteRepository(ETicaretAPIDbContext context) : base(context)
-        {
-        }
     }
 }

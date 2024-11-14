@@ -9,10 +9,7 @@ using System.Threading.Tasks;
 
 namespace ETicaretAPI.Persistence.Repositories
 {
-    public class OrderWriteRepository : WriteRepository<Order>, IOrderWriteRepository
+    public class OrderWriteRepository(ETicaretAPIDbContext context) : WriteRepository<Order>(context), IOrderWriteRepository
     {
-        public OrderWriteRepository(ETicaretAPIDbContext context) : base(context)
-        {
-        }
     }
 }
