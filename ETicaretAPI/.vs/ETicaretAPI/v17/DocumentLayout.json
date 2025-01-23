@@ -1,22 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\firat\\Desktop\\ETicaretUyguamasi\\ETicaretAPI\\",
+  "WorkspaceRootPath": "C:\\Users\\Geotek\\source\\repos\\FullStackProject\\ETicaretAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E9C3EFF7-DA79-499C-8A74-DB7BAE7C9C16}|Infrastructure\\ETicaretAPI.Persistence\\ETicaretAPI.Persistence.csproj|c:\\users\\firat\\desktop\\eticaretuyguamasi\\eticaretapi\\infrastructure\\eticaretapi.persistence\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{205DD2E6-8016-4014-9617-484298BDDD0B}|Presentation\\ETicaretAPI.API\\ETicaretAPI.API.csproj|c:\\users\\geotek\\source\\repos\\fullstackproject\\eticaretapi\\presentation\\eticaretapi.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{205DD2E6-8016-4014-9617-484298BDDD0B}|Presentation\\ETicaretAPI.API\\ETicaretAPI.API.csproj|solutionrelative:presentation\\eticaretapi.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{205DD2E6-8016-4014-9617-484298BDDD0B}|Presentation\\ETicaretAPI.API\\ETicaretAPI.API.csproj|c:\\users\\geotek\\source\\repos\\fullstackproject\\eticaretapi\\presentation\\eticaretapi.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{205DD2E6-8016-4014-9617-484298BDDD0B}|Presentation\\ETicaretAPI.API\\ETicaretAPI.API.csproj|solutionrelative:presentation\\eticaretapi.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{715AA89C-38AD-439E-A663-E1B5788F7FA5}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|c:\\users\\geotek\\source\\repos\\fullstackproject\\eticaretapi\\core\\eticaretapi.application\\validators\\products\\createproductvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{715AA89C-38AD-439E-A663-E1B5788F7FA5}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|solutionrelative:core\\eticaretapi.application\\validators\\products\\createproductvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{205DD2E6-8016-4014-9617-484298BDDD0B}|Presentation\\ETicaretAPI.API\\ETicaretAPI.API.csproj|c:\\users\\geotek\\source\\repos\\fullstackproject\\eticaretapi\\presentation\\eticaretapi.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{205DD2E6-8016-4014-9617-484298BDDD0B}|Presentation\\ETicaretAPI.API\\ETicaretAPI.API.csproj|solutionrelative:presentation\\eticaretapi.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9C3EFF7-DA79-499C-8A74-DB7BAE7C9C16}|Infrastructure\\ETicaretAPI.Persistence\\ETicaretAPI.Persistence.csproj|c:\\users\\geotek\\source\\repos\\fullstackproject\\eticaretapi\\infrastructure\\eticaretapi.persistence\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E9C3EFF7-DA79-499C-8A74-DB7BAE7C9C16}|Infrastructure\\ETicaretAPI.Persistence\\ETicaretAPI.Persistence.csproj|solutionrelative:infrastructure\\eticaretapi.persistence\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9C3EFF7-DA79-499C-8A74-DB7BAE7C9C16}|Infrastructure\\ETicaretAPI.Persistence\\ETicaretAPI.Persistence.csproj|c:\\users\\firat\\desktop\\eticaretuyguamasi\\eticaretapi\\infrastructure\\eticaretapi.persistence\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E9C3EFF7-DA79-499C-8A74-DB7BAE7C9C16}|Infrastructure\\ETicaretAPI.Persistence\\ETicaretAPI.Persistence.csproj|c:\\users\\geotek\\source\\repos\\fullstackproject\\eticaretapi\\infrastructure\\eticaretapi.persistence\\contexts\\eticaretapidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9C3EFF7-DA79-499C-8A74-DB7BAE7C9C16}|Infrastructure\\ETicaretAPI.Persistence\\ETicaretAPI.Persistence.csproj|solutionrelative:infrastructure\\eticaretapi.persistence\\contexts\\eticaretapidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA354548-6219-43FC-9D49-3390669631C6}|Core\\ETicaretAPI.Domain\\ETicaretAPI.Domain.csproj|c:\\users\\geotek\\source\\repos\\fullstackproject\\eticaretapi\\core\\eticaretapi.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA354548-6219-43FC-9D49-3390669631C6}|Core\\ETicaretAPI.Domain\\ETicaretAPI.Domain.csproj|solutionrelative:core\\eticaretapi.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9C3EFF7-DA79-499C-8A74-DB7BAE7C9C16}|Infrastructure\\ETicaretAPI.Persistence\\ETicaretAPI.Persistence.csproj|c:\\users\\geotek\\source\\repos\\fullstackproject\\eticaretapi\\infrastructure\\eticaretapi.persistence\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E9C3EFF7-DA79-499C-8A74-DB7BAE7C9C16}|Infrastructure\\ETicaretAPI.Persistence\\ETicaretAPI.Persistence.csproj|solutionrelative:infrastructure\\eticaretapi.persistence\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E9C3EFF7-DA79-499C-8A74-DB7BAE7C9C16}|Infrastructure\\ETicaretAPI.Persistence\\ETicaretAPI.Persistence.csproj|c:\\users\\firat\\desktop\\eticaretuyguamasi\\eticaretapi\\infrastructure\\eticaretapi.persistence\\repositories\\writerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E9C3EFF7-DA79-499C-8A74-DB7BAE7C9C16}|Infrastructure\\ETicaretAPI.Persistence\\ETicaretAPI.Persistence.csproj|solutionrelative:infrastructure\\eticaretapi.persistence\\repositories\\writerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E9C3EFF7-DA79-499C-8A74-DB7BAE7C9C16}|Infrastructure\\ETicaretAPI.Persistence\\ETicaretAPI.Persistence.csproj|c:\\users\\firat\\desktop\\eticaretuyguamasi\\eticaretapi\\infrastructure\\eticaretapi.persistence\\repositories\\readrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E9C3EFF7-DA79-499C-8A74-DB7BAE7C9C16}|Infrastructure\\ETicaretAPI.Persistence\\ETicaretAPI.Persistence.csproj|solutionrelative:infrastructure\\eticaretapi.persistence\\repositories\\readrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,100 +41,105 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 179,
-          "SelectedChildIndex": 10,
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateProductValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Geotek\\source\\repos\\FullStackProject\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Validators\\Products\\CreateProductValidator.cs",
+              "RelativeDocumentMoniker": "Core\\ETicaretAPI.Application\\Validators\\Products\\CreateProductValidator.cs",
+              "ToolTip": "C:\\Users\\Geotek\\source\\repos\\FullStackProject\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Validators\\Products\\CreateProductValidator.cs",
+              "RelativeToolTip": "Core\\ETicaretAPI.Application\\Validators\\Products\\CreateProductValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T07:35:01.665Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ServiceRegistration.cs",
-              "DocumentMoniker": "C:\\Users\\firat\\Desktop\\ETicaretUyguamasi\\ETicaretAPI\\Infrastructure\\ETicaretAPI.Persistence\\ServiceRegistration.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\ETicaretAPI.Persistence\\ServiceRegistration.cs",
-              "ToolTip": "C:\\Users\\firat\\Desktop\\ETicaretUyguamasi\\ETicaretAPI\\Infrastructure\\ETicaretAPI.Persistence\\ServiceRegistration.cs",
-              "RelativeToolTip": "Infrastructure\\ETicaretAPI.Persistence\\ServiceRegistration.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABOAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Geotek\\source\\repos\\FullStackProject\\ETicaretAPI\\Presentation\\ETicaretAPI.API\\Program.cs",
+              "RelativeDocumentMoniker": "Presentation\\ETicaretAPI.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Geotek\\source\\repos\\FullStackProject\\ETicaretAPI\\Presentation\\ETicaretAPI.API\\Program.cs",
+              "RelativeToolTip": "Presentation\\ETicaretAPI.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T07:39:59.143Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Configuration.cs",
-              "DocumentMoniker": "C:\\Users\\firat\\Desktop\\ETicaretUyguamasi\\ETicaretAPI\\Infrastructure\\ETicaretAPI.Persistence\\Configuration.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\ETicaretAPI.Persistence\\Configuration.cs",
-              "ToolTip": "C:\\Users\\firat\\Desktop\\ETicaretUyguamasi\\ETicaretAPI\\Infrastructure\\ETicaretAPI.Persistence\\Configuration.cs",
-              "RelativeToolTip": "Infrastructure\\ETicaretAPI.Persistence\\Configuration.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T07:39:06.099Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "WriteRepository.cs",
-              "DocumentMoniker": "C:\\Users\\firat\\Desktop\\ETicaretUyguamasi\\ETicaretAPI\\Infrastructure\\ETicaretAPI.Persistence\\Repositories\\WriteRepository.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\ETicaretAPI.Persistence\\Repositories\\WriteRepository.cs",
-              "ToolTip": "C:\\Users\\firat\\Desktop\\ETicaretUyguamasi\\ETicaretAPI\\Infrastructure\\ETicaretAPI.Persistence\\Repositories\\WriteRepository.cs",
-              "RelativeToolTip": "Infrastructure\\ETicaretAPI.Persistence\\Repositories\\WriteRepository.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAAAEwDIAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T07:37:44.816Z",
+              "WhenOpened": "2025-01-21T13:55:54.736Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ReadRepository.cs",
-              "DocumentMoniker": "C:\\Users\\firat\\Desktop\\ETicaretUyguamasi\\ETicaretAPI\\Infrastructure\\ETicaretAPI.Persistence\\Repositories\\ReadRepository.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\ETicaretAPI.Persistence\\Repositories\\ReadRepository.cs",
-              "ToolTip": "C:\\Users\\firat\\Desktop\\ETicaretUyguamasi\\ETicaretAPI\\Infrastructure\\ETicaretAPI.Persistence\\Repositories\\ReadRepository.cs",
-              "RelativeToolTip": "Infrastructure\\ETicaretAPI.Persistence\\Repositories\\ReadRepository.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAEwCcAAAAaAAAA",
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Geotek\\source\\repos\\FullStackProject\\ETicaretAPI\\Presentation\\ETicaretAPI.API\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Presentation\\ETicaretAPI.API\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Geotek\\source\\repos\\FullStackProject\\ETicaretAPI\\Presentation\\ETicaretAPI.API\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Presentation\\ETicaretAPI.API\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T07:12:00.171Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T11:56:18.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Geotek\\source\\repos\\FullStackProject\\ETicaretAPI\\Presentation\\ETicaretAPI.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Presentation\\ETicaretAPI.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Geotek\\source\\repos\\FullStackProject\\ETicaretAPI\\Presentation\\ETicaretAPI.API\\appsettings.json",
+              "RelativeToolTip": "Presentation\\ETicaretAPI.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-20T08:17:55.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Geotek\\source\\repos\\FullStackProject\\ETicaretAPI\\Core\\ETicaretAPI.Domain\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "Core\\ETicaretAPI.Domain\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\Geotek\\source\\repos\\FullStackProject\\ETicaretAPI\\Core\\ETicaretAPI.Domain\\Entities\\Order.cs",
+              "RelativeToolTip": "Core\\ETicaretAPI.Domain\\Entities\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T08:14:38.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ETicaretAPIDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Geotek\\source\\repos\\FullStackProject\\ETicaretAPI\\Infrastructure\\ETicaretAPI.Persistence\\Contexts\\ETicaretAPIDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\ETicaretAPI.Persistence\\Contexts\\ETicaretAPIDbContext.cs",
+              "ToolTip": "C:\\Users\\Geotek\\source\\repos\\FullStackProject\\ETicaretAPI\\Infrastructure\\ETicaretAPI.Persistence\\Contexts\\ETicaretAPIDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\ETicaretAPI.Persistence\\Contexts\\ETicaretAPIDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T08:04:56.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\Geotek\\source\\repos\\FullStackProject\\ETicaretAPI\\Infrastructure\\ETicaretAPI.Persistence\\ServiceRegistration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\ETicaretAPI.Persistence\\ServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\Geotek\\source\\repos\\FullStackProject\\ETicaretAPI\\Infrastructure\\ETicaretAPI.Persistence\\ServiceRegistration.cs",
+              "RelativeToolTip": "Infrastructure\\ETicaretAPI.Persistence\\ServiceRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T08:04:50.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\Geotek\\source\\repos\\FullStackProject\\ETicaretAPI\\Infrastructure\\ETicaretAPI.Persistence\\Configuration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\ETicaretAPI.Persistence\\Configuration.cs",
+              "ToolTip": "C:\\Users\\Geotek\\source\\repos\\FullStackProject\\ETicaretAPI\\Infrastructure\\ETicaretAPI.Persistence\\Configuration.cs",
+              "RelativeToolTip": "Infrastructure\\ETicaretAPI.Persistence\\Configuration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T08:04:47.498Z"
             }
           ]
         }

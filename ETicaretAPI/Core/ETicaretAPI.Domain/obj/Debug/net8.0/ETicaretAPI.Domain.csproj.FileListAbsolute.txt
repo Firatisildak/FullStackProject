@@ -10,3 +10,15 @@ C:\Users\firat\Desktop\ETicaretUyguamasi\ETicaretAPI\Core\ETicaretAPI.Domain\obj
 C:\Users\firat\Desktop\ETicaretUyguamasi\ETicaretAPI\Core\ETicaretAPI.Domain\obj\Debug\net8.0\refint\ETicaretAPI.Domain.dll
 C:\Users\firat\Desktop\ETicaretUyguamasi\ETicaretAPI\Core\ETicaretAPI.Domain\obj\Debug\net8.0\ETicaretAPI.Domain.pdb
 C:\Users\firat\Desktop\ETicaretUyguamasi\ETicaretAPI\Core\ETicaretAPI.Domain\obj\Debug\net8.0\ref\ETicaretAPI.Domain.dll
+C:\Users\Geotek\source\repos\FullStackProject\ETicaretAPI\Core\ETicaretAPI.Domain\bin\Debug\net8.0\ETicaretAPI.Domain.deps.json
+C:\Users\Geotek\source\repos\FullStackProject\ETicaretAPI\Core\ETicaretAPI.Domain\bin\Debug\net8.0\ETicaretAPI.Domain.dll
+C:\Users\Geotek\source\repos\FullStackProject\ETicaretAPI\Core\ETicaretAPI.Domain\bin\Debug\net8.0\ETicaretAPI.Domain.pdb
+C:\Users\Geotek\source\repos\FullStackProject\ETicaretAPI\Core\ETicaretAPI.Domain\obj\Debug\net8.0\ETicaretAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Geotek\source\repos\FullStackProject\ETicaretAPI\Core\ETicaretAPI.Domain\obj\Debug\net8.0\ETicaretAPI.Domain.AssemblyInfoInputs.cache
+C:\Users\Geotek\source\repos\FullStackProject\ETicaretAPI\Core\ETicaretAPI.Domain\obj\Debug\net8.0\ETicaretAPI.Domain.AssemblyInfo.cs
+C:\Users\Geotek\source\repos\FullStackProject\ETicaretAPI\Core\ETicaretAPI.Domain\obj\Debug\net8.0\ETicaretAPI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Geotek\source\repos\FullStackProject\ETicaretAPI\Core\ETicaretAPI.Domain\obj\Debug\net8.0\ETicaretAPI.Domain.sourcelink.json
+C:\Users\Geotek\source\repos\FullStackProject\ETicaretAPI\Core\ETicaretAPI.Domain\obj\Debug\net8.0\ETicaretAPI.Domain.dll
+C:\Users\Geotek\source\repos\FullStackProject\ETicaretAPI\Core\ETicaretAPI.Domain\obj\Debug\net8.0\refint\ETicaretAPI.Domain.dll
+C:\Users\Geotek\source\repos\FullStackProject\ETicaretAPI\Core\ETicaretAPI.Domain\obj\Debug\net8.0\ETicaretAPI.Domain.pdb
+C:\Users\Geotek\source\repos\FullStackProject\ETicaretAPI\Core\ETicaretAPI.Domain\obj\Debug\net8.0\ref\ETicaretAPI.Domain.dll

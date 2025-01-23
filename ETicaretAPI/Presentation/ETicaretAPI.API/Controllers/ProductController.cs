@@ -1,19 +1,18 @@
 ﻿using ETicaretAPI.Application.Repositories;
 using ETicaretAPI.Application.ViewModels.Products;
 using ETicaretAPI.Domain.Entities;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using System.Net;
 
 namespace GeotekProject.API.Controllers
-{ 
+{
     [Route("api/[controller]")]
     [ApiController]
     public class ProductController : ControllerBase
     {
         readonly private IProductWriteRepository _productWriteRepository;
         readonly private IProductReadRepository _productReadRepository;
-        
+
         public ProductController(IProductWriteRepository productWriteRepository, IProductReadRepository productReadRepository)
         {
             _productWriteRepository = productWriteRepository;
@@ -23,7 +22,7 @@ namespace GeotekProject.API.Controllers
         [HttpGet]
         public async Task<IActionResult> Get()
         {
-            return Ok(_productReadRepository.GetAll(false));
+            return Ok(_productReadRepository.GetAll(false));//buradaki false tracing edilmediğini gösteriyor.Çünkü herhangi bir değişiklik yok zaten
         }
 
         [HttpGet("{id}")]
@@ -35,6 +34,10 @@ namespace GeotekProject.API.Controllers
         [HttpPost]
         public async Task<IActionResult> Post(VM_Create_Product model)
         {
+            if (ModelState.IsValid) 
+            {
+
+            }
             await _productWriteRepository.AddAsync(new()
             {
                 Name = model.Name,
@@ -63,7 +66,5 @@ namespace GeotekProject.API.Controllers
             await _productWriteRepository.SaveAsync();
             return Ok();
         }
-
-       
     }
 }
