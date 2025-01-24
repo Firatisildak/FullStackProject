@@ -26,17 +26,19 @@ namespace GeotekProject.API.Controllers
         }
 
         [HttpGet("{id}")]
-        public async Task<IActionResult> Get(String id)
+        public async Task<IActionResult> Get(string id)
         {
-            return Ok(_productReadRepository.GetByIdAsync(id, false));
+            var product = await _productReadRepository.GetByIdAsync(id, false);
+            return Ok(product);
         }
+
 
         [HttpPost]
         public async Task<IActionResult> Post(VM_Create_Product model)
         {
             if (ModelState.IsValid) 
             {
-
+                
             }
             await _productWriteRepository.AddAsync(new()
             {
