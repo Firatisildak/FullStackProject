@@ -1,4 +1,5 @@
 ﻿using ETicaretAPI.Application.Repositories;
+using ETicaretAPI.Application.RequestParameters;
 using ETicaretAPI.Application.ViewModels.Products;
 using ETicaretAPI.Domain.Entities;
 using Microsoft.AspNetCore.Mvc;
@@ -20,9 +21,24 @@ namespace GeotekProject.API.Controllers
         }
 
         [HttpGet]
-        public async Task<IActionResult> Get()
+        public async Task<IActionResult> Get([FromQuery]Pagination pagination)
         {
-            return Ok(_productReadRepository.GetAll(false));//buradaki false tracing edilmediğini gösteriyor.Çünkü herhangi bir değişiklik yok zaten
+            var totalCount=_productReadRepository.GetAll(false).Count();
+            var products= _productReadRepository.GetAll(false).Skip(pagination.Page * pagination.Size).Take(pagination.Size).Select(p => new
+            {
+                p.Id,
+                p.Name,
+                p.Stock,
+                p.Price,
+                p.CreatedDate,
+                p.UpdatedDate
+            });
+
+            return Ok(new
+            {
+                totalCount, 
+                products
+            });
         }
 
         [HttpGet("{id}")]
@@ -36,10 +52,6 @@ namespace GeotekProject.API.Controllers
         [HttpPost]
         public async Task<IActionResult> Post(VM_Create_Product model)
         {
-            if (ModelState.IsValid) 
-            {
-                
-            }
             await _productWriteRepository.AddAsync(new()
             {
                 Name = model.Name,
