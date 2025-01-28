@@ -304,3 +304,4 @@ C:\Users\Geotek\source\repos\FullStackProject\ETicaretAPI\Presentation\ETicaretA
 C:\Users\Geotek\source\repos\FullStackProject\ETicaretAPI\Presentation\ETicaretAPI.API\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
 C:\Users\Geotek\source\repos\FullStackProject\ETicaretAPI\Presentation\ETicaretAPI.API\bin\Debug\net8.0\ETicaretAPI.Infrastructure.dll
 C:\Users\Geotek\source\repos\FullStackProject\ETicaretAPI\Presentation\ETicaretAPI.API\bin\Debug\net8.0\ETicaretAPI.Infrastructure.pdb
+C:\Users\Geotek\source\repos\FullStackProject\ETicaretAPI\Presentation\ETicaretAPI.API\bin\Debug\net8.0\ETicaretAPI.API.staticwebassets.runtime.json
