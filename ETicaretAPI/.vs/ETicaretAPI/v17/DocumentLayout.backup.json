@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Geotek\\source\\repos\\FullStackProject\\ETicaretAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{51FF8251-F676-40D2-9F76-07B6E650B8F3}|Infrastructure\\ETicaretAPIInfrastructure\\ETicaretAPI.Infrastructure.csproj|c:\\users\\geotek\\source\\repos\\fullstackproject\\eticaretapi\\infrastructure\\eticaretapiinfrastructure\\services\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51FF8251-F676-40D2-9F76-07B6E650B8F3}|Infrastructure\\ETicaretAPIInfrastructure\\ETicaretAPI.Infrastructure.csproj|solutionrelative:infrastructure\\eticaretapiinfrastructure\\services\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{715AA89C-38AD-439E-A663-E1B5788F7FA5}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|c:\\users\\geotek\\source\\repos\\fullstackproject\\eticaretapi\\core\\eticaretapi.application\\services\\ifileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{715AA89C-38AD-439E-A663-E1B5788F7FA5}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|solutionrelative:core\\eticaretapi.application\\services\\ifileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{205DD2E6-8016-4014-9617-484298BDDD0B}|Presentation\\ETicaretAPI.API\\ETicaretAPI.API.csproj|c:\\users\\geotek\\source\\repos\\fullstackproject\\eticaretapi\\presentation\\eticaretapi.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{205DD2E6-8016-4014-9617-484298BDDD0B}|Presentation\\ETicaretAPI.API\\ETicaretAPI.API.csproj|solutionrelative:presentation\\eticaretapi.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{51FF8251-F676-40D2-9F76-07B6E650B8F3}|Infrastructure\\ETicaretAPIInfrastructure\\ETicaretAPI.Infrastructure.csproj|c:\\users\\geotek\\source\\repos\\fullstackproject\\eticaretapi\\infrastructure\\eticaretapiinfrastructure\\filters\\validationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{51FF8251-F676-40D2-9F76-07B6E650B8F3}|Infrastructure\\ETicaretAPIInfrastructure\\ETicaretAPI.Infrastructure.csproj|solutionrelative:infrastructure\\eticaretapiinfrastructure\\filters\\validationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51FF8251-F676-40D2-9F76-07B6E650B8F3}|Infrastructure\\ETicaretAPIInfrastructure\\ETicaretAPI.Infrastructure.csproj|c:\\users\\geotek\\source\\repos\\fullstackproject\\eticaretapi\\infrastructure\\eticaretapiinfrastructure\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51FF8251-F676-40D2-9F76-07B6E650B8F3}|Infrastructure\\ETicaretAPIInfrastructure\\ETicaretAPI.Infrastructure.csproj|solutionrelative:infrastructure\\eticaretapiinfrastructure\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{205DD2E6-8016-4014-9617-484298BDDD0B}|Presentation\\ETicaretAPI.API\\ETicaretAPI.API.csproj|c:\\users\\geotek\\source\\repos\\fullstackproject\\eticaretapi\\presentation\\eticaretapi.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,17 +38,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
+              "Title": "ServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\Geotek\\source\\repos\\FullStackProject\\ETicaretAPI\\Infrastructure\\ETicaretAPIInfrastructure\\ServiceRegistration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\ETicaretAPIInfrastructure\\ServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\Geotek\\source\\repos\\FullStackProject\\ETicaretAPI\\Infrastructure\\ETicaretAPIInfrastructure\\ServiceRegistration.cs",
+              "RelativeToolTip": "Infrastructure\\ETicaretAPIInfrastructure\\ServiceRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T08:14:35.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileService.cs",
+              "DocumentMoniker": "C:\\Users\\Geotek\\source\\repos\\FullStackProject\\ETicaretAPI\\Infrastructure\\ETicaretAPIInfrastructure\\Services\\FileService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\ETicaretAPIInfrastructure\\Services\\FileService.cs",
+              "ToolTip": "C:\\Users\\Geotek\\source\\repos\\FullStackProject\\ETicaretAPI\\Infrastructure\\ETicaretAPIInfrastructure\\Services\\FileService.cs",
+              "RelativeToolTip": "Infrastructure\\ETicaretAPIInfrastructure\\Services\\FileService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACMAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T06:41:50.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IFileService.cs",
+              "DocumentMoniker": "C:\\Users\\Geotek\\source\\repos\\FullStackProject\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Services\\IFileService.cs",
+              "RelativeDocumentMoniker": "Core\\ETicaretAPI.Application\\Services\\IFileService.cs",
+              "ToolTip": "C:\\Users\\Geotek\\source\\repos\\FullStackProject\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Services\\IFileService.cs",
+              "RelativeToolTip": "Core\\ETicaretAPI.Application\\Services\\IFileService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T06:35:38.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Geotek\\source\\repos\\FullStackProject\\ETicaretAPI\\Presentation\\ETicaretAPI.API\\Program.cs",
               "RelativeDocumentMoniker": "Presentation\\ETicaretAPI.API\\Program.cs",
               "ToolTip": "C:\\Users\\Geotek\\source\\repos\\FullStackProject\\ETicaretAPI\\Presentation\\ETicaretAPI.API\\Program.cs",
               "RelativeToolTip": "Presentation\\ETicaretAPI.API\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-28T07:26:04.034Z",
               "EditorCaption": ""
@@ -44,18 +95,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Pagination.cs",
-              "DocumentMoniker": "C:\\Users\\Geotek\\source\\repos\\FullStackProject\\ETicaretAPI\\Core\\ETicaretAPI.Application\\RequestParameters\\Pagination.cs",
-              "RelativeDocumentMoniker": "Core\\ETicaretAPI.Application\\RequestParameters\\Pagination.cs",
-              "ToolTip": "C:\\Users\\Geotek\\source\\repos\\FullStackProject\\ETicaretAPI\\Core\\ETicaretAPI.Application\\RequestParameters\\Pagination.cs",
-              "RelativeToolTip": "Core\\ETicaretAPI.Application\\RequestParameters\\Pagination.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T06:40:00.193Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "ValidationFilter.cs",
               "DocumentMoniker": "C:\\Users\\Geotek\\source\\repos\\FullStackProject\\ETicaretAPI\\Infrastructure\\ETicaretAPIInfrastructure\\Filters\\ValidationFilter.cs",
               "RelativeDocumentMoniker": "Infrastructure\\ETicaretAPIInfrastructure\\Filters\\ValidationFilter.cs",
@@ -68,16 +107,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "ProductController.cs",
               "DocumentMoniker": "C:\\Users\\Geotek\\source\\repos\\FullStackProject\\ETicaretAPI\\Presentation\\ETicaretAPI.API\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "Presentation\\ETicaretAPI.API\\Controllers\\ProductController.cs",
               "ToolTip": "C:\\Users\\Geotek\\source\\repos\\FullStackProject\\ETicaretAPI\\Presentation\\ETicaretAPI.API\\Controllers\\ProductController.cs",
               "RelativeToolTip": "Presentation\\ETicaretAPI.API\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGEAAABeAAAAAAAAAA==",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAFsAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-21T11:56:18.595Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Pagination.cs",
+              "DocumentMoniker": "C:\\Users\\Geotek\\source\\repos\\FullStackProject\\ETicaretAPI\\Core\\ETicaretAPI.Application\\RequestParameters\\Pagination.cs",
+              "RelativeDocumentMoniker": "Core\\ETicaretAPI.Application\\RequestParameters\\Pagination.cs",
+              "ToolTip": "C:\\Users\\Geotek\\source\\repos\\FullStackProject\\ETicaretAPI\\Core\\ETicaretAPI.Application\\RequestParameters\\Pagination.cs",
+              "RelativeToolTip": "Core\\ETicaretAPI.Application\\RequestParameters\\Pagination.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T06:40:00.193Z"
             }
           ]
         }
