@@ -50,8 +50,7 @@
               "RelativeToolTip": "Infrastructure\\ETicaretAPIInfrastructure\\ServiceRegistration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T08:14:35.751Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-29T08:14:35.751Z"
             },
             {
               "$type": "Document",
@@ -61,7 +60,7 @@
               "RelativeDocumentMoniker": "Infrastructure\\ETicaretAPIInfrastructure\\Services\\FileService.cs",
               "ToolTip": "C:\\Users\\Geotek\\source\\repos\\FullStackProject\\ETicaretAPI\\Infrastructure\\ETicaretAPIInfrastructure\\Services\\FileService.cs",
               "RelativeToolTip": "Infrastructure\\ETicaretAPIInfrastructure\\Services\\FileService.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAACMAAABLAAAAAAAAAA==",
+              "ViewState": "AgIAADMAAAAAAAAAAAAIwEUAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-29T06:41:50.804Z",
               "EditorCaption": ""
@@ -74,7 +73,7 @@
               "RelativeDocumentMoniker": "Core\\ETicaretAPI.Application\\Services\\IFileService.cs",
               "ToolTip": "C:\\Users\\Geotek\\source\\repos\\FullStackProject\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Services\\IFileService.cs",
               "RelativeToolTip": "Core\\ETicaretAPI.Application\\Services\\IFileService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-29T06:35:38.553Z",
               "EditorCaption": ""
@@ -89,8 +88,7 @@
               "RelativeToolTip": "Presentation\\ETicaretAPI.API\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T07:26:04.034Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-28T07:26:04.034Z"
             },
             {
               "$type": "Document",
@@ -102,8 +100,7 @@
               "RelativeToolTip": "Infrastructure\\ETicaretAPIInfrastructure\\Filters\\ValidationFilter.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-24T08:14:11.417Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-24T08:14:11.417Z"
             },
             {
               "$type": "Document",
@@ -113,7 +110,7 @@
               "RelativeDocumentMoniker": "Presentation\\ETicaretAPI.API\\Controllers\\ProductController.cs",
               "ToolTip": "C:\\Users\\Geotek\\source\\repos\\FullStackProject\\ETicaretAPI\\Presentation\\ETicaretAPI.API\\Controllers\\ProductController.cs",
               "RelativeToolTip": "Presentation\\ETicaretAPI.API\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAFQAAAAAAAAAAAAAAFsAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAFsAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-21T11:56:18.595Z",
               "EditorCaption": ""
