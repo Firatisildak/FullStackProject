@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Geotek\\source\\repos\\FullStackProject\\ETicaretAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{51FF8251-F676-40D2-9F76-07B6E650B8F3}|Infrastructure\\ETicaretAPIInfrastructure\\ETicaretAPI.Infrastructure.csproj|c:\\users\\geotek\\source\\repos\\fullstackproject\\eticaretapi\\infrastructure\\eticaretapiinfrastructure\\services\\storage\\storageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51FF8251-F676-40D2-9F76-07B6E650B8F3}|Infrastructure\\ETicaretAPIInfrastructure\\ETicaretAPI.Infrastructure.csproj|solutionrelative:infrastructure\\eticaretapiinfrastructure\\services\\storage\\storageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{715AA89C-38AD-439E-A663-E1B5788F7FA5}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|c:\\users\\geotek\\source\\repos\\fullstackproject\\eticaretapi\\core\\eticaretapi.application\\abstractions\\storage\\istoreageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{715AA89C-38AD-439E-A663-E1B5788F7FA5}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|solutionrelative:core\\eticaretapi.application\\abstractions\\storage\\istoreageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{205DD2E6-8016-4014-9617-484298BDDD0B}|Presentation\\ETicaretAPI.API\\ETicaretAPI.API.csproj|c:\\users\\geotek\\source\\repos\\fullstackproject\\eticaretapi\\presentation\\eticaretapi.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{205DD2E6-8016-4014-9617-484298BDDD0B}|Presentation\\ETicaretAPI.API\\ETicaretAPI.API.csproj|solutionrelative:presentation\\eticaretapi.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51FF8251-F676-40D2-9F76-07B6E650B8F3}|Infrastructure\\ETicaretAPIInfrastructure\\ETicaretAPI.Infrastructure.csproj|c:\\users\\geotek\\source\\repos\\fullstackproject\\eticaretapi\\infrastructure\\eticaretapiinfrastructure\\services\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51FF8251-F676-40D2-9F76-07B6E650B8F3}|Infrastructure\\ETicaretAPIInfrastructure\\ETicaretAPI.Infrastructure.csproj|solutionrelative:infrastructure\\eticaretapiinfrastructure\\services\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E9C3EFF7-DA79-499C-8A74-DB7BAE7C9C16}|Infrastructure\\ETicaretAPI.Persistence\\ETicaretAPI.Persistence.csproj|c:\\users\\geotek\\source\\repos\\fullstackproject\\eticaretapi\\infrastructure\\eticaretapi.persistence\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E9C3EFF7-DA79-499C-8A74-DB7BAE7C9C16}|Infrastructure\\ETicaretAPI.Persistence\\ETicaretAPI.Persistence.csproj|solutionrelative:infrastructure\\eticaretapi.persistence\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +22,44 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FileService.cs",
-              "DocumentMoniker": "C:\\Users\\Geotek\\source\\repos\\FullStackProject\\ETicaretAPI\\Infrastructure\\ETicaretAPIInfrastructure\\Services\\FileService.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\ETicaretAPIInfrastructure\\Services\\FileService.cs",
-              "ToolTip": "C:\\Users\\Geotek\\source\\repos\\FullStackProject\\ETicaretAPI\\Infrastructure\\ETicaretAPIInfrastructure\\Services\\FileService.cs",
-              "RelativeToolTip": "Infrastructure\\ETicaretAPIInfrastructure\\Services\\FileService.cs",
-              "ViewState": "AgIAAFEAAAAAAAAAAAAAAGEAAAAvAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "StorageService.cs",
+              "DocumentMoniker": "C:\\Users\\Geotek\\source\\repos\\FullStackProject\\ETicaretAPI\\Infrastructure\\ETicaretAPIInfrastructure\\Services\\Storage\\StorageService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\ETicaretAPIInfrastructure\\Services\\Storage\\StorageService.cs",
+              "ToolTip": "C:\\Users\\Geotek\\source\\repos\\FullStackProject\\ETicaretAPI\\Infrastructure\\ETicaretAPIInfrastructure\\Services\\Storage\\StorageService.cs",
+              "RelativeToolTip": "Infrastructure\\ETicaretAPIInfrastructure\\Services\\Storage\\StorageService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T10:09:16.507Z",
+              "WhenOpened": "2025-02-03T08:53:39.52Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "IStoreageService.cs",
+              "DocumentMoniker": "C:\\Users\\Geotek\\source\\repos\\FullStackProject\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Abstractions\\Storage\\IStoreageService.cs",
+              "RelativeDocumentMoniker": "Core\\ETicaretAPI.Application\\Abstractions\\Storage\\IStoreageService.cs",
+              "ToolTip": "C:\\Users\\Geotek\\source\\repos\\FullStackProject\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Abstractions\\Storage\\IStoreageService.cs",
+              "RelativeToolTip": "Core\\ETicaretAPI.Application\\Abstractions\\Storage\\IStoreageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T08:52:31.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ProductController.cs",
               "DocumentMoniker": "C:\\Users\\Geotek\\source\\repos\\FullStackProject\\ETicaretAPI\\Presentation\\ETicaretAPI.API\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "Presentation\\ETicaretAPI.API\\Controllers\\ProductController.cs",
               "ToolTip": "C:\\Users\\Geotek\\source\\repos\\FullStackProject\\ETicaretAPI\\Presentation\\ETicaretAPI.API\\Controllers\\ProductController.cs",
               "RelativeToolTip": "Presentation\\ETicaretAPI.API\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAFsAAAAAAAAAAAAAAG0AAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAYwBwAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T08:46:01.865Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ServiceRegistration.cs",
-              "DocumentMoniker": "C:\\Users\\Geotek\\source\\repos\\FullStackProject\\ETicaretAPI\\Infrastructure\\ETicaretAPI.Persistence\\ServiceRegistration.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\ETicaretAPI.Persistence\\ServiceRegistration.cs",
-              "ToolTip": "C:\\Users\\Geotek\\source\\repos\\FullStackProject\\ETicaretAPI\\Infrastructure\\ETicaretAPI.Persistence\\ServiceRegistration.cs",
-              "RelativeToolTip": "Infrastructure\\ETicaretAPI.Persistence\\ServiceRegistration.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAABMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T08:41:51.122Z"
+              "WhenOpened": "2025-02-03T08:48:42.289Z"
             }
           ]
         }
