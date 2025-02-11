@@ -309,3 +309,6 @@ C:\Users\Geotek\source\repos\FullStackProject\ETicaretAPI\Presentation\ETicaretA
 C:\Users\Geotek\source\repos\FullStackProject\ETicaretAPI\Presentation\ETicaretAPI.API\bin\Debug\net8.0\Azure.Storage.Common.dll
 C:\Users\Geotek\source\repos\FullStackProject\ETicaretAPI\Presentation\ETicaretAPI.API\bin\Debug\net8.0\System.ClientModel.dll
 C:\Users\Geotek\source\repos\FullStackProject\ETicaretAPI\Presentation\ETicaretAPI.API\bin\Debug\net8.0\System.IO.Hashing.dll
+C:\Users\Geotek\source\repos\FullStackProject\ETicaretAPI\Presentation\ETicaretAPI.API\bin\Debug\net8.0\MediatR.dll
+C:\Users\Geotek\source\repos\FullStackProject\ETicaretAPI\Presentation\ETicaretAPI.API\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Users\Geotek\source\repos\FullStackProject\ETicaretAPI\Presentation\ETicaretAPI.API\bin\Debug\net8.0\MediatR.Extensions.Microsoft.DependencyInjection.dll

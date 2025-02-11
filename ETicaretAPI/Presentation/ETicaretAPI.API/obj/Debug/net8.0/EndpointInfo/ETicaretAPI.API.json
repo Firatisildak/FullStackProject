@@ -42,17 +42,17 @@
           "content": {
             "application/json": {
               "schema": {
-                "$ref": "#/components/schemas/VM_Create_Product"
+                "$ref": "#/components/schemas/CreateProductCommandRequest"
               }
             },
             "text/json": {
               "schema": {
-                "$ref": "#/components/schemas/VM_Create_Product"
+                "$ref": "#/components/schemas/CreateProductCommandRequest"
               }
             },
             "application/*+json": {
               "schema": {
-                "$ref": "#/components/schemas/VM_Create_Product"
+                "$ref": "#/components/schemas/CreateProductCommandRequest"
               }
             }
           }
@@ -150,7 +150,7 @@
   },
   "components": {
     "schemas": {
-      "VM_Create_Product": {
+      "CreateProductCommandRequest": {
         "type": "object",
         "properties": {
           "name": {
