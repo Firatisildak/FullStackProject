@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Http;
 
 namespace ETicaretAPI.Infrastructure.Services.Storage
 {
-    public class StorageService : IStoreageService
+    public class StorageService : IStorageService
     {
         readonly IStorage _storage;
 

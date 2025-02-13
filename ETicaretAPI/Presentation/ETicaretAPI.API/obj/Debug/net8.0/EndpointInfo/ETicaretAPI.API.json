@@ -5,10 +5,10 @@
     "version": "1.0"
   },
   "paths": {
-    "/api/Product": {
+    "/api/Products": {
       "get": {
         "tags": [
-          "Product"
+          "Products"
         ],
         "parameters": [
           {
@@ -36,7 +36,7 @@
       },
       "post": {
         "tags": [
-          "Product"
+          "Products"
         ],
         "requestBody": {
           "content": {
@@ -65,23 +65,23 @@
       },
       "put": {
         "tags": [
-          "Product"
+          "Products"
         ],
         "requestBody": {
           "content": {
             "application/json": {
               "schema": {
-                "$ref": "#/components/schemas/Vm_Update_Product"
+                "$ref": "#/components/schemas/UpdateProductCommandRequest"
               }
             },
             "text/json": {
               "schema": {
-                "$ref": "#/components/schemas/Vm_Update_Product"
+                "$ref": "#/components/schemas/UpdateProductCommandRequest"
               }
             },
             "application/*+json": {
               "schema": {
-                "$ref": "#/components/schemas/Vm_Update_Product"
+                "$ref": "#/components/schemas/UpdateProductCommandRequest"
               }
             }
           }
@@ -93,14 +93,14 @@
         }
       }
     },
-    "/api/Product/{id}": {
+    "/api/Products/{Id}": {
       "get": {
         "tags": [
-          "Product"
+          "Products"
         ],
         "parameters": [
           {
-            "name": "id",
+            "name": "Id",
             "in": "path",
             "required": true,
             "schema": {
@@ -116,11 +116,11 @@
       },
       "delete": {
         "tags": [
-          "Product"
+          "Products"
         ],
         "parameters": [
           {
-            "name": "id",
+            "name": "Id",
             "in": "path",
             "required": true,
             "schema": {
@@ -135,10 +135,121 @@
         }
       }
     },
-    "/api/Product/Upload": {
+    "/api/Products/Upload": {
       "post": {
         "tags": [
-          "Product"
+          "Products"
+        ],
+        "parameters": [
+          {
+            "name": "Id",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "multipart/form-data": {
+              "schema": {
+                "type": "object",
+                "properties": {
+                  "Files": {
+                    "type": "array",
+                    "items": {
+                      "type": "string",
+                      "format": "binary"
+                    }
+                  }
+                }
+              },
+              "encoding": {
+                "Files": {
+                  "style": "form"
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/Products/GetProductImages/{id}": {
+      "get": {
+        "tags": [
+          "Products"
+        ],
+        "parameters": [
+          {
+            "name": "Id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/Products/DeleteProductImage/{id}": {
+      "delete": {
+        "tags": [
+          "Products"
+        ],
+        "parameters": [
+          {
+            "name": "Id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "imageId",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/Products/ChangeShowcaseImage": {
+      "get": {
+        "tags": [
+          "Products"
+        ],
+        "parameters": [
+          {
+            "name": "ImageId",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "ProductId",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          }
         ],
         "responses": {
           "200": {
@@ -168,7 +279,7 @@
         },
         "additionalProperties": false
       },
-      "Vm_Update_Product": {
+      "UpdateProductCommandRequest": {
         "type": "object",
         "properties": {
           "id": {

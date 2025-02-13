@@ -1,8 +1,8 @@
 [
   {
-    "ContainingType": "GeotekProject.API.Controllers.ProductController",
+    "ContainingType": "GeotekProject.API.Controllers.ProductsController",
     "Method": "Get",
-    "RelativePath": "api/Product",
+    "RelativePath": "api/Products",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -21,47 +21,47 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "GeotekProject.API.Controllers.ProductController",
+    "ContainingType": "GeotekProject.API.Controllers.ProductsController",
     "Method": "Post",
-    "RelativePath": "api/Product",
+    "RelativePath": "api/Products",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
         "Name": "createProductCommandRequest",
-        "Type": "ETicaretAPI.Application.Features.Commands.CreatProduct.CreateProductCommandRequest",
+        "Type": "ETicaretAPI.Application.Features.Commands.Product.CreateProduct.CreateProductCommandRequest",
         "IsRequired": true
       }
     ],
     "ReturnTypes": []
   },
   {
-    "ContainingType": "GeotekProject.API.Controllers.ProductController",
+    "ContainingType": "GeotekProject.API.Controllers.ProductsController",
     "Method": "Put",
-    "RelativePath": "api/Product",
+    "RelativePath": "api/Products",
     "HttpMethod": "PUT",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
-        "Name": "model",
-        "Type": "ETicaretAPI.Application.ViewModels.Products.Vm_Update_Product",
+        "Name": "updateProductCommandRequest",
+        "Type": "ETicaretAPI.Application.Features.Commands.Product.UpdateProduct.UpdateProductCommandRequest",
         "IsRequired": true
       }
     ],
     "ReturnTypes": []
   },
   {
-    "ContainingType": "GeotekProject.API.Controllers.ProductController",
+    "ContainingType": "GeotekProject.API.Controllers.ProductsController",
     "Method": "Get",
-    "RelativePath": "api/Product/{id}",
+    "RelativePath": "api/Products/{Id}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
-        "Name": "id",
+        "Name": "Id",
         "Type": "System.String",
         "IsRequired": true
       }
@@ -69,15 +69,15 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "GeotekProject.API.Controllers.ProductController",
+    "ContainingType": "GeotekProject.API.Controllers.ProductsController",
     "Method": "Delete",
-    "RelativePath": "api/Product/{id}",
+    "RelativePath": "api/Products/{Id}",
     "HttpMethod": "DELETE",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
-        "Name": "id",
+        "Name": "Id",
         "Type": "System.String",
         "IsRequired": true
       }
@@ -85,13 +85,82 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "GeotekProject.API.Controllers.ProductController",
+    "ContainingType": "GeotekProject.API.Controllers.ProductsController",
+    "Method": "ChangeShowcaseImage",
+    "RelativePath": "api/Products/ChangeShowcaseImage",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ImageId",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "ProductId",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GeotekProject.API.Controllers.ProductsController",
+    "Method": "DeleteProductImage",
+    "RelativePath": "api/Products/DeleteProductImage/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "imageId",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GeotekProject.API.Controllers.ProductsController",
+    "Method": "GetProductImages",
+    "RelativePath": "api/Products/GetProductImages/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GeotekProject.API.Controllers.ProductsController",
     "Method": "Upload",
-    "RelativePath": "api/Product/Upload",
+    "RelativePath": "api/Products/Upload",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
-    "Parameters": [],
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Files",
+        "Type": "Microsoft.AspNetCore.Http.IFormFileCollection",
+        "IsRequired": false
+      }
+    ],
     "ReturnTypes": []
   }
 ]
