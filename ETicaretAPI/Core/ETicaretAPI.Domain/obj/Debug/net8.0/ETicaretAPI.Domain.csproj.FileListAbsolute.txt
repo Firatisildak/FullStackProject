@@ -22,3 +22,4 @@ C:\Users\Geotek\source\repos\FullStackProject\ETicaretAPI\Core\ETicaretAPI.Domai
 C:\Users\Geotek\source\repos\FullStackProject\ETicaretAPI\Core\ETicaretAPI.Domain\obj\Debug\net8.0\refint\ETicaretAPI.Domain.dll
 C:\Users\Geotek\source\repos\FullStackProject\ETicaretAPI\Core\ETicaretAPI.Domain\obj\Debug\net8.0\ETicaretAPI.Domain.pdb
 C:\Users\Geotek\source\repos\FullStackProject\ETicaretAPI\Core\ETicaretAPI.Domain\obj\Debug\net8.0\ref\ETicaretAPI.Domain.dll
+C:\Users\Geotek\source\repos\FullStackProject\ETicaretAPI\Core\ETicaretAPI.Domain\obj\Debug\net8.0\ETicaretAPI.Domain.csproj.AssemblyReference.cache

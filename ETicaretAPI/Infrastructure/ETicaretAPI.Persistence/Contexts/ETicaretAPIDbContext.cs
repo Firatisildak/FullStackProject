@@ -1,11 +1,14 @@
 ﻿using ETicaretAPI.Domain.Entities;
 using ETicaretAPI.Domain.Entities.Common;
+using ETicaretAPI.Domain.Entities.Identity;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
 namespace ETicaretAPI.Persistence.Contexts
 {
-    public class ETicaretAPIDbContext(DbContextOptions options) : DbContext(options)
+    public class ETicaretAPIDbContext : IdentityDbContext<AppUser, AppRole, string>
     {
+        public ETicaretAPIDbContext(DbContextOptions options) : base(options) { }
 
         public DbSet<Product> Products { get; set; }
         public DbSet<Order> Orders { get; set; }

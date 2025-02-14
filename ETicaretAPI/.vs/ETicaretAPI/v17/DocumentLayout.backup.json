@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Geotek\\source\\repos\\FullStackProject\\ETicaretAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{205DD2E6-8016-4014-9617-484298BDDD0B}|Presentation\\ETicaretAPI.API\\ETicaretAPI.API.csproj|c:\\users\\geotek\\source\\repos\\fullstackproject\\eticaretapi\\presentation\\eticaretapi.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{205DD2E6-8016-4014-9617-484298BDDD0B}|Presentation\\ETicaretAPI.API\\ETicaretAPI.API.csproj|solutionrelative:presentation\\eticaretapi.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{715AA89C-38AD-439E-A663-E1B5788F7FA5}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|c:\\users\\geotek\\source\\repos\\fullstackproject\\eticaretapi\\core\\eticaretapi.application\\features\\commands\\appuser\\createuser\\createusercommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{715AA89C-38AD-439E-A663-E1B5788F7FA5}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|solutionrelative:core\\eticaretapi.application\\features\\commands\\appuser\\createuser\\createusercommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{715AA89C-38AD-439E-A663-E1B5788F7FA5}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|c:\\users\\geotek\\source\\repos\\fullstackproject\\eticaretapi\\core\\eticaretapi.application\\features\\commands\\productimagefile\\removeproductimage\\removeproductimagecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{715AA89C-38AD-439E-A663-E1B5788F7FA5}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|solutionrelative:core\\eticaretapi.application\\features\\commands\\productimagefile\\removeproductimage\\removeproductimagecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{715AA89C-38AD-439E-A663-E1B5788F7FA5}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|c:\\users\\geotek\\source\\repos\\fullstackproject\\eticaretapi\\core\\eticaretapi.application\\features\\commands\\appuser\\createuser\\createusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{715AA89C-38AD-439E-A663-E1B5788F7FA5}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|solutionrelative:core\\eticaretapi.application\\features\\commands\\appuser\\createuser\\createusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{715AA89C-38AD-439E-A663-E1B5788F7FA5}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|c:\\users\\geotek\\source\\repos\\fullstackproject\\eticaretapi\\core\\eticaretapi.application\\features\\commands\\productimagefile\\removeproductimage\\removeproductimagecommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{715AA89C-38AD-439E-A663-E1B5788F7FA5}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|solutionrelative:core\\eticaretapi.application\\features\\commands\\productimagefile\\removeproductimage\\removeproductimagecommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{715AA89C-38AD-439E-A663-E1B5788F7FA5}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|c:\\users\\geotek\\source\\repos\\fullstackproject\\eticaretapi\\core\\eticaretapi.application\\features\\commands\\appuser\\createuser\\createusercommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{715AA89C-38AD-439E-A663-E1B5788F7FA5}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|solutionrelative:core\\eticaretapi.application\\features\\commands\\appuser\\createuser\\createusercommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{205DD2E6-8016-4014-9617-484298BDDD0B}|Presentation\\ETicaretAPI.API\\ETicaretAPI.API.csproj|c:\\users\\geotek\\source\\repos\\fullstackproject\\eticaretapi\\presentation\\eticaretapi.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{205DD2E6-8016-4014-9617-484298BDDD0B}|Presentation\\ETicaretAPI.API\\ETicaretAPI.API.csproj|solutionrelative:presentation\\eticaretapi.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "C:\\Users\\Geotek\\source\\repos\\FullStackProject\\ETicaretAPI\\Presentation\\ETicaretAPI.API\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "Presentation\\ETicaretAPI.API\\Controllers\\ProductsController.cs",
-              "ToolTip": "C:\\Users\\Geotek\\source\\repos\\FullStackProject\\ETicaretAPI\\Presentation\\ETicaretAPI.API\\Controllers\\ProductsController.cs",
-              "RelativeToolTip": "Presentation\\ETicaretAPI.API\\Controllers\\ProductsController.cs",
-              "ViewState": "AgIAAEwAAAAAAAAAAAAAABAAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T14:35:52.73Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "RemoveProductImageCommandRequest.cs",
-              "DocumentMoniker": "C:\\Users\\Geotek\\source\\repos\\FullStackProject\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Features\\Commands\\ProductImageFile\\RemoveProductImage\\RemoveProductImageCommandRequest.cs",
-              "RelativeDocumentMoniker": "Core\\ETicaretAPI.Application\\Features\\Commands\\ProductImageFile\\RemoveProductImage\\RemoveProductImageCommandRequest.cs",
-              "ToolTip": "C:\\Users\\Geotek\\source\\repos\\FullStackProject\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Features\\Commands\\ProductImageFile\\RemoveProductImage\\RemoveProductImageCommandRequest.cs",
-              "RelativeToolTip": "Core\\ETicaretAPI.Application\\Features\\Commands\\ProductImageFile\\RemoveProductImage\\RemoveProductImageCommandRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
+              "Title": "CreateUserCommandRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Geotek\\source\\repos\\FullStackProject\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Features\\Commands\\AppUser\\CreateUser\\CreateUserCommandRequest.cs",
+              "RelativeDocumentMoniker": "Core\\ETicaretAPI.Application\\Features\\Commands\\AppUser\\CreateUser\\CreateUserCommandRequest.cs",
+              "ToolTip": "C:\\Users\\Geotek\\source\\repos\\FullStackProject\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Features\\Commands\\AppUser\\CreateUser\\CreateUserCommandRequest.cs",
+              "RelativeToolTip": "Core\\ETicaretAPI.Application\\Features\\Commands\\AppUser\\CreateUser\\CreateUserCommandRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T14:17:14.982Z",
+              "WhenOpened": "2025-02-14T13:38:27.797Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "RemoveProductImageCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Geotek\\source\\repos\\FullStackProject\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Features\\Commands\\ProductImageFile\\RemoveProductImage\\RemoveProductImageCommandHandler.cs",
-              "RelativeDocumentMoniker": "Core\\ETicaretAPI.Application\\Features\\Commands\\ProductImageFile\\RemoveProductImage\\RemoveProductImageCommandHandler.cs",
-              "ToolTip": "C:\\Users\\Geotek\\source\\repos\\FullStackProject\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Features\\Commands\\ProductImageFile\\RemoveProductImage\\RemoveProductImageCommandHandler.cs",
-              "RelativeToolTip": "Core\\ETicaretAPI.Application\\Features\\Commands\\ProductImageFile\\RemoveProductImage\\RemoveProductImageCommandHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAArAAAAAAAAAA==",
+              "Title": "CreateUserCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Geotek\\source\\repos\\FullStackProject\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Features\\Commands\\AppUser\\CreateUser\\CreateUserCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core\\ETicaretAPI.Application\\Features\\Commands\\AppUser\\CreateUser\\CreateUserCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Geotek\\source\\repos\\FullStackProject\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Features\\Commands\\AppUser\\CreateUser\\CreateUserCommandHandler.cs",
+              "RelativeToolTip": "Core\\ETicaretAPI.Application\\Features\\Commands\\AppUser\\CreateUser\\CreateUserCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T14:17:04.031Z",
+              "WhenOpened": "2025-02-14T13:36:58.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateUserCommandResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Geotek\\source\\repos\\FullStackProject\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Features\\Commands\\AppUser\\CreateUser\\CreateUserCommandResponse.cs",
+              "RelativeDocumentMoniker": "Core\\ETicaretAPI.Application\\Features\\Commands\\AppUser\\CreateUser\\CreateUserCommandResponse.cs",
+              "ToolTip": "C:\\Users\\Geotek\\source\\repos\\FullStackProject\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Features\\Commands\\AppUser\\CreateUser\\CreateUserCommandResponse.cs",
+              "RelativeToolTip": "Core\\ETicaretAPI.Application\\Features\\Commands\\AppUser\\CreateUser\\CreateUserCommandResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T13:39:00.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Geotek\\source\\repos\\FullStackProject\\ETicaretAPI\\Presentation\\ETicaretAPI.API\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Presentation\\ETicaretAPI.API\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Geotek\\source\\repos\\FullStackProject\\ETicaretAPI\\Presentation\\ETicaretAPI.API\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Presentation\\ETicaretAPI.API\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T13:28:52.814Z",
               "EditorCaption": ""
             }
           ]
